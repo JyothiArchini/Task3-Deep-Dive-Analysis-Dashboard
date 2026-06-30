@@ -48,6 +48,8 @@ This project presents a deep-dive analysis of the Superstore dataset using Micro
 * Profit by Region
 * Top 10 States by Sales
 * Sales by Ship Mode
+  
+Note: Due to Power BI Service publishing limitations, the interactive dashboard is provided as a .pbix file. It can be opened using Microsoft Power BI Desktop.
 
 ## Key Insights
 
